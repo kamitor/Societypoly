@@ -9,7 +9,6 @@ Societypoly is an innovative board game that explores the intersection of econom
 - [Game Features](#game-features)
 - [Getting Started](#getting-started)
 - [Gameplay](Gameplay.md)
-- [Components](#components)
 - [Societal Missions](#societal-missions)
 - [Board Tiles](#board-tiles)
 - [Entity Mechanics](#entity-mechanics)
@@ -49,5 +48,5 @@ open source: https://github.com/mafgwo/stackedit-plus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjM2NzA1NF19
+eyJoaXN0b3J5IjpbNDE0Njc0MzE3LDE4MjYzNjcwNTRdfQ==
 -->
