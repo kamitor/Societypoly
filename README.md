@@ -17,7 +17,7 @@ Societypoly is an innovative board game that explores the intersection of econom
 - [Contributing](#contributing)
 - [License](#license)
 
-[a relative link]
+
 
 ## Introduction
 
@@ -48,5 +48,6 @@ open source: https://github.com/mafgwo/stackedit-plus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0Njc0MzE3LDE4MjYzNjcwNTRdfQ==
+eyJoaXN0b3J5IjpbNzU5MjcxOTUwLDQxNDY3NDMxNywxODI2Mz
+Y3MDU0XX0=
 -->
