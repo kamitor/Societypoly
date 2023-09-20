@@ -56,5 +56,5 @@ We welcome contributions to Societypoly! Feel free to open issues for bug report
 
 Societypoly is licensed under the MIT License, ensuring an open and collaborative development process. You can use, modify, and share the game in accordance with the terms of this license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTcwMTgyMiwtMTY3MDI0MjI3Ml19
+eyJoaXN0b3J5IjpbLTUzMTcwMTgyMl19
 -->
