@@ -26,7 +26,7 @@ Societypoly boasts features that make it a unique and captivating board game. Pl
 
 ## Getting Started
 
-To embark on your Societypoly journey, simply clone the repository, install any necessary dependencies, and run the game. It's a straightforward process that allows you to quickly dive into the world of economic exploration, political maneuvering, and societal missions.
+
 
 ## Societal Missions
 
@@ -56,5 +56,5 @@ We welcome contributions to Societypoly! Feel free to open issues for bug report
 
 Societypoly is licensed under the MIT License, ensuring an open and collaborative development process. You can use, modify, and share the game in accordance with the terms of this license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAyNDIyNzJdfQ==
+eyJoaXN0b3J5IjpbLTUzMTcwMTgyMiwtMTY3MDI0MjI3Ml19
 -->
