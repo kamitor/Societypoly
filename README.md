@@ -1,14 +1,13 @@
 
 # Societypoly
 
-Societypoly is an innovative board game that explores the intersection of economic systems, politics, and societal dynamics. In this game, players navigate a dynamic world where they can shape their own destinies, challenge societal norms, and build economic empires while influencing the fate of the state, corporate entities, and nature.
+Societypoly is a thought-provoking board game that delves into the intricate interplay of economic systems, political strategies, and societal missions. It offers an engaging and educational experience where players have the opportunity to shape their own destinies in a dynamically evolving world.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Game Features](#game-features)
+- [Game Features](Gameplay.md)
 - [Getting Started](#getting-started)
-- [Gameplay](Gameplay.md)
 - [Societal Missions](#societal-missions)
 - [Board Tiles](#board-tiles)
 - [Entity Mechanics](#entity-mechanics)
@@ -17,37 +16,45 @@ Societypoly is an innovative board game that explores the intersection of econom
 - [Contributing](#contributing)
 - [License](#license)
 
-
-
 ## Introduction
 
-Societypoly is a strategic and educational board game that immerses players in a world where they explore various economic systems, engage in political intrigue, and work to accomplish societal missions influenced by diverse social classes. The game offers a unique blend of entertainment and enlightenment.
+Societypoly is a thought-provoking board game that delves into the intricate interplay of economic systems, political strategies, and societal missions. It offers an engaging and educational experience where players have the opportunity to shape their own destinies in a dynamically evolving world.
 
 ## Game Features
 
-- **Economic Exploration:** Experience the nuances of different economic systems, including capitalism, socialism, and mixed economies.
-
-- **Political Strategy:** Navigate the political landscape, form alliances, and campaign for power to influence the game's direction.
-
-- **Societal Missions:** Embrace missions tied to various societal classes, such as age, wealth, location, and political/economic alignment.
-
-- **Board Evolution:** Watch the game world evolve seasonally and yearly, affecting taxes, events, and tile values.
+Societypoly boasts features that make it a unique and captivating board game. Players can explore various economic systems, from capitalism to socialism, while honing their political strategies to influence the game's course. With a blend of entertainment and enlightenment, Societypoly offers an immersive experience like no other.
 
 ## Getting Started
 
-To embark on your Societypoly journey, follow these steps:
+To embark on your Societypoly journey, simply clone the repository, install any necessary dependencies, and run the game. It's a straightforward process that allows you to quickly dive into the world of economic exploration, political maneuvering, and societal missions.
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/societypoly.git
-# StackEdit+ app data
+## Societal Missions
 
-stackedit+: https://stackedit.net
+Societal missions in Societypoly are influenced by a wide range of social classes, including age, wealth, location, political/economic alignment, and more. These missions add depth to the gameplay, encouraging players to explore different strategic approaches without bias.
 
-open source: https://github.com/mafgwo/stackedit-plus
+## Board Tiles
 
+Societypoly's board tiles come in various types, each with unique rules, descriptions, and effects. From World Wonders that offer unique bonuses to Taxes that impact players' finances, these tiles create a dynamic and ever-changing game world.
 
+## Entity Mechanics
+
+Entities in Societypoly, such as Corporate Empires, the State, and Nature, behave like RPG characters. They start with specific attributes and abilities and can progress or regress through in-game events. Players' actions directly influence these entities, shaping the game's narrative.
+
+## Game Dynamics
+
+Societypoly operates on a yearly cycle with 52 tiles representing seasons and years. Variable endings provide replayability, and missions encourage strategic flexibility without imposing specific directives. Additionally, players can influence the destruction of improved tiles, introducing dynamic elements to the game.
+
+## Development Checklist
+
+The development checklist outlines essential tasks to create and refine Societypoly. It covers game components, mission and board tile development, entity mechanics, game dynamics, and additional development needs such as a rulebook and playtest feedback forms.
+
+## Contributing
+
+We welcome contributions to Societypoly! Feel free to open issues for bug reports or feature requests and submit pull requests to enhance the game. Review our Contributing Guidelines for more details on how to get involved.
+
+## License
+
+Societypoly is licensed under the MIT License, ensuring an open and collaborative development process. You can use, modify, and share the game in accordance with the terms of this license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MjcxOTUwLDQxNDY3NDMxNywxODI2Mz
-Y3MDU0XX0=
+eyJoaXN0b3J5IjpbLTE2NzAyNDIyNzJdfQ==
 -->
