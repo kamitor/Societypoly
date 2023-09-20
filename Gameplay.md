@@ -1,95 +1,72 @@
 
-## Gameplay
+### Gameplay
 
-Societypoly is played on a dynamic board where players:
+Societypoly offers a rich and immersive gaming experience where players can explore the complexities of economic systems, politics, and societal dynamics. Below, we detail the key gameplay components and mechanics:
 
--   Acquire properties and resources.
--   Engage in political activities.
--   Pursue societal missions influenced by their chosen social class.
+#### Game Components:
 
-The game concludes based on predetermined criteria, offering variable endings for every playthrough.
-
-## Components
-
-Societypoly includes the following game components:
-
--   **Two Game Boards:** Player board and Entity board, representing seasons, years, and the state of the entities (Corporate Empires, Nature, and the State).
+-   **Two Boards:**
     
--   **Player Tokens:** Distinctive tokens for each player to identify their progress on the board.
+    -   Player Board: A 52-tile board representing the 52 weeks in a year, allowing for season/year dynamics.
+    -   Entity Board: Tracks the progress of three different entities - Corporate Empires, Nature, and the State.
+-   **Player Tokens:** Each player uses unique and distinguishable tokens to mark their progress on the board.
     
--   **Currency:** Banknotes to manage in-game finances.
+-   **Money:** Societypoly includes a currency system with denominations and designed banknotes, allowing players to manage their finances.
     
--   **Global Events Cards:** A deck of cards with diverse global events, each with unique consequences.
+-   **Global Events Cards:** These cards introduce varying events with both positive and negative consequences, adding unpredictability to the game.
     
--   **Improvement Cards:** These cards replace traditional street cards in Monopoly and define the development paths and impacts on the game world.
+-   **Improvement Cards:** Improvement cards replace the traditional street cards in Monopoly. When a player lands on a free tile for the first time, they pick a path (Nature, Corporate, or State) from a card pile. This improvement is then attached to the tile, following the rules on the cards and affecting players and the entity cursors.
     
 
-## Societal Missions
+#### Objectives:
 
-Societal missions add depth and strategy to the game, influenced by various social classes, including:
-
--   Age (Young-Old)
--   Wealth (Rich-Poor)
--   Location (Rural-City)
--   Political/Economic Alignment (Liberal-Conservative, Communist-Capitalist)
--   And more...
-
-These missions encourage players to pursue different strategies and adapt to their chosen social class's objectives.
-
-## Board Tiles
-
-Societypoly features a diverse set of board tiles, including:
-
--   **World Wonders:** Infrastructure projects offering unique bonuses when developed in alignment with a specific entity.
+-   **Missions:** Each player receives a mission at the start, influenced by societal social classes. These classes include age (old-young), wealth (rich-poor), location (rural-city), scope (local-global), political/economic alignment (liberal-conservative, communist-capitalist), and more. These missions add depth and strategic variety to the game.
     
--   **New Year:** Start of the game loop, involving tax calculations and resolution selection.
+-   **Endings:** Societypoly offers multiple potential end structures:
     
--   **Rehabilitation Center/Visiting:** Locations for reflection and growth.
+    -   Players could play for a fixed number of "years."
+    -   The game ends when a specific event occurs.
+    -   A player reaches a predetermined milestone.
+
+#### Board Tiles:
+
+Societypoly features a diverse set of board tiles, each with unique characteristics and effects:
+
+-   **World Wonders:** These tiles replace infrastructures and offer unique bonuses when developed in alignment with a specific entity.
     
--   **Burnout:** A phase of rest where players visit the Rehabilitation Center.
+-   **New Year:** A crucial tile that marks the start of the game loop. During this phase, players handle taxes and select resolutions that can impact the game's direction.
     
--   **World Expo:** Players select from three global events for bonuses and challenges.
+-   **Rehabilitation Center/Visiting:** This tile replaces the visiting/jail tile and serves as a place for reflection and personal growth.
     
--   **Global Networks:** Avenues for information, transport, finance, and culture, each providing specific advantages.
+-   **Burnout:** A phase of rest that replaces the "go to jail" tile. Players go to the Rehabilitation Center during this phase.
     
--   **Taxes:** Sustainability Levy, Shareholder Payment, Citizen Duty, each affecting players differently.
+-   **World Expo:** Replacing the free parking tile, players select from three global events, each offering its own set of bonuses and challenges.
     
--   **World Events:** Global challenges or opportunities that influence gameplay.
+-   **Global Networks:** These tiles replace the train stations and represent avenues for information, transport, finance, and culture. Each type provides specific game advantages.
     
--   **Philanthropy Cards:** Rewards or challenges based on societal contributions.
+-   **Taxes:** Societypoly replaces the income & luxury tax tiles with sustainability levy, shareholder payment, and citizen duty tiles, each with its own calculation method and impact on players.
+    
+-   **World Events:** These tiles replace the chance tiles and introduce global challenges or opportunities that influence gameplay.
+    
+-   **Philanthropy Cards:** Replacing the community chest tiles, these cards offer rewards or challenges based on societal contributions.
+    
+-   **Optional Tiles:** Societypoly may include optional tiles for events like the Summer/Winter Olympics or religious celebrations. These tiles could provide unique gameplay experiences.
     
 
-## Entity Mechanics
+#### Entity Mechanics:
 
-Corporate Empires, the State, and Nature behave like RPG characters, with cursors moving up or down based on in-game events. Players can impact these entities' progress and influence the game world.
+Entities in Societypoly are represented by Corporate Empires, the State, and Nature. These entities behave like RPG characters, starting with a cursor at a specific level and moving up or down through the game via cards, events, and other mechanics. Players can influence these entities' progress, and their actions have a direct impact on the game world.
 
-## Game Dynamics
+#### Game Dynamics:
 
-Societypoly follows a yearly cycle, with the board's 52 tiles representing seasons and years. This cycle affects various game mechanics, including taxes, world events, and tile values. The game offers multiple potential endings, ensuring each playthrough is unique.
+-   **Yearly Cycle:** Societypoly operates on a yearly cycle, with the board's 52 tiles representing seasons and years. This cycle introduces seasonal changes that can influence various game mechanics, such as taxes, world events, or tile values.
+    
+-   **Variable Endings:** The game offers multiple potential endings, allowing players to adapt their strategies based on the chosen game's ending structure. This variability ensures that each game is potentially unique.
+    
+-   **Players' Missions:** The missions assigned to players encourage strategic gameplay without bias. The objectives should be subtle and not include directives like "destroy nature" to maintain gameplay flexibility.
+    
+-   **Improved Tiles Can Be Destroyed:** Players have the opportunity to destroy improved tiles through events like wars, disasters, hostile takeovers, and more. This introduces a dynamic element to the game and keeps players engaged.
 
-## Development Checklist
-
-Use this checklist to guide the development process:
-
--   Create visually appealing board designs for both Player and Entity boards.
--   Design unique player tokens.
--   Establish a currency system with denominations and banknote designs.
--   Develop a deck of Global Events Cards with descriptions and consequences.
--   Create Improvement Cards that detail development paths and impacts.
--   Craft balanced Societal Missions based on social classes.
--   Define board tile rules, descriptions, and effects.
--   Create profiles for Corporate Empires, the State, and Nature, including base stats and abilities.
--   Outline entity cursor movement rules based on in-game events.
--   Establish a yearly cycle with seasonal effects and multiple potential game endings.
--   Develop a rulebook with comprehensive instructions.
--   Prepare play-test feedback forms for iterative improvements.
--   Consider game box design for physical versions.
-
-## Contributing
-
-Contributions to Societypoly are welcome! Please open issues for bug reports or feature requests and submit pull requests to enhance the game.
-
-Review our [Contributing Guidelines](https://chat.openai.com/c/CONTRIBUTING.md) for more details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjc0ODcyM119
+eyJoaXN0b3J5IjpbNTY2ODIzODMzLC02OTI3NDg3MjNdfQ==
 -->
