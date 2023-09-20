@@ -66,7 +66,49 @@ Entities in Societypoly are represented by Corporate Empires, the State, and Nat
 -   **Players' Missions:** The missions assigned to players encourage strategic gameplay without bias. The objectives should be subtle and not include directives like "destroy nature" to maintain gameplay flexibility.
     
 -   **Improved Tiles Can Be Destroyed:** Players have the opportunity to destroy improved tiles through events like wars, disasters, hostile takeovers, and more. This introduces a dynamic element to the game and keeps players engaged.
+### Development Checklist
+
+Use the following checklist to guide the development process of Societypoly:
+
+-  **Game Components Development:**
+  - [ ] Design both Player and Entity boards.
+  - [ ] Create unique and distinguishable player tokens.
+  - [ ] Decide on currency denominations and design banknotes.
+  - [ ] Develop a deck of Global Events Cards with varying consequences.
+  - [ ] Create Improvement Cards detailing benefits, costs, and development paths for Nature, Corporate, and State.
+
+-  **Mission Cards Development:**
+  - [ ] Create unique missions based on societal classes, ensuring balance and non-bias.
+
+-  **Board Tile Development:**
+  - [ ] Define descriptions, costs, and benefits for each World Wonder infrastructure.
+  - [ ] Establish rules for tax calculations and resolution selection during the New Year phase.
+  - [ ] Specify rules for players moving to the Rehabilitation Center/Visiting and Burnout tiles.
+  - [ ] Detail the three different global events, their bonuses, challenges, and conditions for the World Expo tile.
+  - [ ] Describe specific advantages for each type of Global Networks tile (e.g., air, water, rail, road).
+  - [ ] Determine how each tax is calculated on Tax Tiles.
+  - [ ] Provide descriptions and effects for World Events tiles.
+  - [ ] Create Philanthropy Cards with specific societal contributions and their rewards/challenges.
+  - [ ] Consider rules and benefits for optional tiles like the Summer/Winter Olympics or religious celebrations.
+
+- **Entity Mechanics Development:**
+  - [ ] Develop base stats and abilities for Corporate Empires, the State, and Nature.
+  - [ ] Outline rules for how entity cursors move up or down based on in-game events.
+
+- **Game Dynamics Development:**
+  - [ ] Establish rules for seasonal changes and their effects on the game during the Yearly Cycle.
+  - [ ] Define criteria for each potential ending in the Variable Endings system.
+  - [ ] Ensure missions encourage strategic gameplay without bias.
+  - [ ] Outline the conditions under which improved tiles can be destroyed and the consequences.
+
+- **Additional Development Needs:**
+  - [ ] Create a comprehensive rulebook detailing every aspect of the game.
+  - [ ] Prepare play-test feedback forms to gather constructive feedback from testers.
+  - [ ] Consider design and packaging for physical play-test kits if applicable.
+  - [ ] Develop a step-by-step Game Setup Guide to help first-time players get started.
+
+These components and mechanics form the foundation of Societypoly, offering an engaging and educational board game experience that combines economic exploration, political strategy, and societal dynamics.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2ODIzODMzLC02OTI3NDg3MjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTIxMTA2NTBdfQ==
 -->
